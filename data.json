@@ -1,0 +1,16 @@
+{
+	"meetupInfo": {
+		"date": "4-20",
+		"topic": "COD"
+	},
+	"peopleAttending": [{
+		"name": "Anna",
+		"email": "anna@anna.com"
+	}, {
+		"name": "Julia",
+		"email": "julia@julia.com"
+	}, {
+		"name": "liz",
+		"email": "liz@liz.com"
+	}]
+}
