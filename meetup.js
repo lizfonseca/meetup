@@ -138,11 +138,7 @@ server.on('connection', function(client) {
 	});
 });
 
-<<<<<<< HEAD
 server.listen(3000, function() {
-=======
-server.listen(8124, function() {
->>>>>>> 4df84ebf002fda9ec10f2c09c01d8fb2f5f57db2
 	console.log('connected');
 });
 
